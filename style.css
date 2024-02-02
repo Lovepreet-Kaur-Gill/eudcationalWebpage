@@ -1,0 +1,85 @@
+*{
+    margin: 0 auto;
+    padding: 0px;
+}
+/* navbar section
+ */
+#navbar_section{
+    height: 50px;
+}
+.nav{
+    padding-top: 10px;
+    color:navy;
+}
+/* form section */
+#form_section {
+    height: 480px;
+    width: 100%;
+    background-image: url("images/i1.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.form_heading{
+    padding-top: 150px;   
+}
+.forms{
+    height: 420px;
+    width: 380px;
+    margin-top: 30px;
+    color:  rgb(9, 48, 80);
+    background-color:white;
+}
+.forms form{
+    width:360px ;
+}
+/* gallery icons */
+#gallery_section{
+    padding-top: 40px;
+}
+.col-md-3{
+         border: 1px solid grey;
+         text-align: center;
+          margin-left: 40px; 
+}
+.col-md-3 p{
+    color: rgb(9, 48, 80) ;
+}
+.col-md-3 i{
+   font-size: 50px;
+margin-left: 30px;
+color:  rgb(9, 48, 80);
+}
+
+/* article one section css */
+#article_one{
+    height: 350px;
+    width: 100%;
+    margin-top: 50px;
+background-color: rgb(9, 48, 80) ;
+}
+.aone_image{
+    height: 350px;
+    width: 470px;
+}
+
+/* article two css */
+#article_two{
+    height: 220px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+/* article three css */
+#article_three{
+    height: 350px;
+    width: 100%;
+    margin-top: 50px;
+    color: white;
+background-color: rgb(9, 48, 80) ;
+}
+/* footer section css */
+#footer_section{
+    height: 320px;
+    color:rgb(9, 48, 80)  ;
+}
